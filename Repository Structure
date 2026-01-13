@@ -1,0 +1,41 @@
+SecurityPlus-Study-Guide/
+│
+├── Domain-1-General-Security-Concepts/
+│   ├── CIA-Triad.md
+│   ├── Security-Controls.md
+│   ├── Governance-Policies.md
+│   └── Frameworks-and-Standards.md
+│
+├── Domain-2-Threats-Vulnerabilities-Mitigations/
+│   ├── Malware-and-Attacks.md
+│   ├── Social-Engineering.md
+│   ├── Vulnerabilities.md
+│   ├── Mitigation-Techniques.md
+│   └── Vulnerability-Scanning.md
+│
+├── Domain-3-Security-Architecture/
+│   ├── Network-Architecture.md
+│   ├── Cloud-and-Virtualization.md
+│   ├── Secure-Applications.md
+│   ├── Hardware-and-Firmware.md
+│   └── Zero-Trust-and-Segmentation.md
+│
+├── Domain-4-Security-Operations/
+│   ├── Incident-Response.md
+│   ├── Logging-and-Monitoring.md
+│   ├── SIEM-and-SOAR.md
+│   ├── Digital-Forensics.md
+│   └── BCDR.md
+│
+├── Domain-5-Security-Program-Management/
+│   ├── Risk-Management.md
+│   ├── Policies-and-Compliance.md
+│   ├── Security-Awareness.md
+│   ├── Third-Party-Risk.md
+│   └── Metrics-and-Reporting.md
+│
+└── Practice-and-Review/
+    ├── Key-Terms.md
+    ├── Acronyms.md
+    ├── Practice-Questions.md
+    └── Exam-Review-Checklist.md
