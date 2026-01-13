@@ -8,66 +8,70 @@ This repository contains organized study notes and resources created to support 
 
 This roadmap is designed to guide your study progression through each Security+ exam domain, building from foundational concepts to applied security practices.
 
-### 1. General Security Concepts (12%)
+### Domain 1: General Security Concepts (12%)
 
-Start here to establish a strong cybersecurity foundation.
+Official Objectives Covered:
 
 Security principles (CIA triad, least privilege, defense in depth)
 
-Security controls (administrative, technical, physical)
+Security controls and governance
 
-Security governance and compliance basics
+Security frameworks and standards
 
-Common frameworks and standards
+📁 Mapped Folder:
+Domain-1-General-Security-Concepts/
 
-### 2. Threats, Vulnerabilities, and Mitigations (22%)
+### Domain 2: Threats, Vulnerabilities, and Mitigations (22%)
 
-Focus on understanding modern threats and how to reduce risk.
+Official Objectives Covered:
 
-Malware types and attack vectors
+Threat actors and attack vectors
 
-Social engineering techniques
+Malware and social engineering
 
-Vulnerability types and impact
+Vulnerabilities and mitigation techniques
 
-Mitigation strategies and security controls
+📁 Mapped Folder:
+Domain-2-Threats-Vulnerabilities-Mitigations/
 
-### 3. Security Architecture (18%)
+### Domain 3: Security Architecture (18%)
 
-Learn how secure systems are designed and implemented.
+Official Objectives Covered:
 
-Secure network architecture and segmentation
+Secure network and system architecture
 
-Cloud and virtualization security
+Cloud, virtualization, and container security
 
-Secure application and infrastructure concepts
+Application, hardware, and firmware security
 
-Hardware, firmware, and embedded systems security
+📁 Mapped Folder:
+Domain-3-Security-Architecture/
 
-### 4. Security Operations (28%)
+### Domain 4: Security Operations (28%)
 
-Develop skills related to monitoring, detection, and response.
+Official Objectives Covered:
 
-Incident response process and playbooks
+Incident response and digital forensics
 
-Logging, monitoring, and SIEM concepts
+Logging, monitoring, and SIEM
 
-Digital forensics basics
+Business continuity and disaster recovery
 
-Business continuity, disaster recovery, and resilience
+📁 Mapped Folder:
+Domain-4-Security-Operations/
 
-### 5. Security Program Management and Oversight (20%)
+### Domain 5: Security Program Management and Oversight (20%)
 
-Finish with governance, risk, and organizational security.
+Official Objectives Covered:
 
 Risk management and assessment
 
-Security awareness and training
+Security policies and compliance
 
-Third-party and vendor risk
+Third-party risk and awareness training
 
-Policies, procedures, and compliance
-
+📁 Mapped Folder:
+Domain-5-Security-Program-Management/
 -----------------------
 
 ## 📌 How to Use This Repository
