@@ -1,0 +1,95 @@
+1. Core Cybersecurity Objectives
+
+Confidentiality — Protecting information from unauthorized access.
+
+Integrity — Ensuring information isn’t altered without authorization.
+
+Availability — Ensuring information and systems are accessible when needed.
+
+CIA Triad — The trio of confidentiality, integrity, and availability.
+
+Non-repudiation — Guarantee that a party cannot deny an action, supported by digital signatures.
+
+AAA (Authentication, Authorization, and Accounting) — Access control framework.
+
+2. Security Controls
+
+Categories
+
+Technical Controls — Automated controls enforced by systems.
+
+Managerial Controls — Policies, risk assessments, governance processes.
+
+Operational Controls — Day-to-day human procedures (training, awareness).
+
+Physical Controls — Barriers and devices that protect hardware, facilities, and people.
+
+Types
+
+Preventive Controls — Stop incidents before they occur.
+
+Deterrent Controls — Discourage hostile actions.
+
+Detective Controls — Identify when events occur.
+
+Corrective Controls — Fix or mitigate issues after detection.
+
+Compensating Controls — Alternative options when primary controls aren’t feasible.
+
+Directive Controls — Policies or procedures that guide behavior.
+
+3. Security Concepts & Models
+
+Zero Trust — “Never trust; always verify” approach to access.
+
+Gap Analysis — Identifying the difference between current and desired security posture.
+
+4. Change Management & Risk
+
+Change Management — Formal process to control changes to systems/processes.
+
+Risk Categories (Strategic, Compliance, Operational, Financial) — Types of risks organizations face.
+
+5. Data States
+
+Data at Rest — Stored data.
+
+Data in Transit — Data moving across networks.
+
+Data in Use — Data currently being processed.
+
+6. Cryptographic Fundamentals
+
+Public Key Infrastructure (PKI) — Framework for managing digital certificates and keys.
+
+Encryption — Process of encoding data.
+
+Symmetric Encryption — Same key for encrypt/decrypt.
+
+Asymmetric Encryption — Public/private key pairs.
+
+Key Exchange — Process of sharing cryptographic keys.
+
+Hashing — One-way transformation for integrity.
+
+Salting — Adding random data to hashes for security.
+
+Digital Signature — Cryptographic signature for non-repudiation.
+
+Tokenization — Replace sensitive data with tokens.
+
+Data Masking — Obscuring data to protect privacy.
+
+Blockchain / Open Public Ledger — Distributed, tamper-resistant records (integrity concept).
+
+Certificate Authorities (CA) — Trusted entities that issue certs.
+
+Certificate Revocation Lists (CRLs) & OCSP — Mechanisms to revoke certs.
+
+7. Physical Security Terms
+
+Bollards, Fencing, Lighting — Examples of physical safeguards.
+
+Access Badge / Badge Readers — Physical access systems.
+
+Security Guard / Video Surveillance — Human and tech monitoring.
