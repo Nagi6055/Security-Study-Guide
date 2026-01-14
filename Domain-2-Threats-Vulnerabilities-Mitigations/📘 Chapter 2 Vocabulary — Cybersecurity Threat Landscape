@@ -1,0 +1,187 @@
+🔐 1. Threat Actors
+
+Threat Actor — Any individual or group that poses a security risk
+
+Script Kiddie — Inexperienced attacker using existing tools
+
+Hacktivist — Attacker motivated by political or social causes
+
+Organized Crime — Professional criminal groups seeking financial gain
+
+Nation-State / Advanced Persistent Threat (APT) — Government-sponsored attackers
+
+Insider Threat — Employee or trusted individual misusing access
+
+Unintentional Insider — User causing harm accidentally
+
+Shadow IT — Unauthorized systems or services used by employees
+
+🧨 2. Malware Types
+
+Malware — Malicious software
+
+Virus — Requires user action to spread
+
+Worm — Self-propagating malware
+
+Trojan Horse — Disguised as legitimate software
+
+Ransomware — Encrypts data for extortion
+
+Spyware — Collects user information secretly
+
+Adware — Displays unwanted advertisements
+
+Rootkit — Hides malicious activity at the system level
+
+Keylogger — Records keystrokes
+
+Logic Bomb — Triggers on a specific condition
+
+Botnet — Network of compromised devices
+
+Fileless Malware — Operates in memory using legitimate tools
+
+Backdoor — Hidden access mechanism
+
+🎣 3. Social Engineering Attacks
+
+Social Engineering — Psychological manipulation to gain access
+
+Phishing — Fraudulent emails or messages
+
+Spear Phishing — Targeted phishing attack
+
+Whaling — Phishing targeting executives
+
+Smishing — SMS-based phishing
+
+Vishing — Voice phishing
+
+Pretexting — Creating a fabricated scenario
+
+Impersonation — Pretending to be a trusted person
+
+Baiting — Luring victims with something enticing
+
+Tailgating / Piggybacking — Gaining physical access by following someone
+
+Shoulder Surfing — Observing credentials visually
+
+Dumpster Diving — Retrieving sensitive info from trash
+
+🌐 4. Network & Infrastructure Attacks
+
+Denial-of-Service (DoS) — Overwhelming a system
+
+Distributed DoS (DDoS) — DoS from multiple sources
+
+Man-in-the-Middle (MITM) — Intercepting communications
+
+Replay Attack — Reusing captured data
+
+Session Hijacking — Taking over an active session
+
+DNS Poisoning — Corrupting DNS records
+
+ARP Spoofing — Redirecting traffic on a LAN
+
+On-Path Attack — Updated term for MITM
+
+Evil Twin — Rogue wireless access point
+
+Bluejacking — Sending unsolicited Bluetooth messages
+
+Bluesnarfing — Unauthorized Bluetooth data theft
+
+🧑‍💻 5. Application & Software Attacks
+
+SQL Injection (SQLi) — Injecting malicious SQL queries
+
+Cross-Site Scripting (XSS) — Injecting malicious scripts into web pages
+
+Cross-Site Request Forgery (CSRF) — Forcing unauthorized actions
+
+Command Injection — Executing system commands
+
+Buffer Overflow — Overwriting memory boundaries
+
+Race Condition — Exploiting timing flaws
+
+Privilege Escalation — Gaining higher access levels
+
+Directory Traversal — Accessing unauthorized files
+
+Insecure Deserialization — Exploiting object reconstruction
+
+Zero-Day Attack — Exploiting unknown vulnerabilities
+
+🔓 6. Credential & Authentication Attacks
+
+Brute-Force Attack — Trying all possible passwords
+
+Password Spraying — Using common passwords across accounts
+
+Credential Stuffing — Using leaked credentials
+
+Rainbow Table Attack — Precomputed hash cracking
+
+Offline Password Attack — Cracking captured hashes
+
+Online Password Attack — Attacking live authentication systems
+
+Pass-the-Hash — Reusing password hashes
+
+Pass-the-Ticket — Exploiting Kerberos tickets
+
+☁️ 7. Cloud & Virtualization Threats
+
+Misconfiguration — Improperly secured services
+
+Shared Responsibility Model — Cloud security division of duties
+
+VM Escape — Breaking out of a virtual machine
+
+Container Escape — Gaining host access from container
+
+Insecure APIs — Weak cloud interfaces
+
+Resource Exhaustion — Consuming cloud resources maliciously
+
+📡 8. Supply Chain & Third-Party Risks
+
+Supply Chain Attack — Compromising vendors or updates
+
+Third-Party Risk — Risks introduced by external partners
+
+Firmware Attack — Compromising low-level hardware code
+
+Trojanized Update — Malicious software update
+
+⚠️ 9. Vulnerabilities & Exposure
+
+Vulnerability — Weakness in a system
+
+Threat — Potential cause of harm
+
+Exploit — Code or technique used to attack
+
+Attack Vector — Path used to exploit a vulnerability
+
+Attack Surface — All possible entry points
+
+Exposure — System susceptible to attack
+
+Risk — Likelihood × impact
+
+🧠 10. Emerging Threats
+
+Artificial Intelligence (AI) Attacks
+
+Deepfakes
+
+Cryptojacking — Unauthorized crypto mining
+
+Internet of Things (IoT) Threats
+
+Operational Technology (OT) Attacks
