@@ -156,23 +156,3 @@ Use this checklist to track your progress through each exam domain. Check off it
 ☐ Understand policies, standards, and compliance requirements
 
 ☐ Review metrics, reporting, and continuous improvement
-
-🎯 Exam Readiness Checklist
-
-☐ Completed all domains
-
-☐ Reviewed key terminology and acronyms
-
-☐ Completed multiple practice exams
-
-☐ Identified and reviewed weak areas
-
-☐ Final review 24–48 hours before exam
-
-If you want, I can:
-
-Convert this into a Markdown task list ready for GitHub checkboxes
-
-Add recommended tools/labs per checklist item
-
-Tailor it specifically for SOC or Help Desk career paths
